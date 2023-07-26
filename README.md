@@ -1,7 +1,6 @@
 # Akhter-uz-zaman - Senior Software Engineer
 
-- Mobile No.: +880 1773 912 255
-- Email: arif.cse28@gmail.com
+- Email: tech.az.arif@gmail.com
 - GitHub: [akhterarif](https://github.com/akhterarif)
 - LinkedIn: [akhterarif](https://www.linkedin.com/in/akhterarif/)
 

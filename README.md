@@ -6,21 +6,21 @@
 
 ## Summary
 
-I am a Senior Software Engineer with over 7+ years of experience in server-based software development, engineering automation, and deploying applications on local and remote servers. My expertise lies in Python and PHP, and I have co-authored a research paper on Cloud-Based Computational Framework for Oil-Field Development. I am well-versed in various frameworks and technologies, including Django, Django REST framework, Laravel, CodeIgniter, VueJS, and jQuery. Additionally, I have experience in front-end technologies like HTML, CSS, and JavaScript. I have earned a gold badge on Python in hackerrank.com and possess strong problem-solving skills.
+I am a Senior Software Engineer with over 7+ years of experience in server-based software development, engineering automation, and deploying applications on local and remote servers for Local and Remote Clients. My expertise lies in Python and PHP, and I have co-authored a research paper on [Cloud-Based Computational Framework for Oil-Field Development](https://www.researchgate.net/publication/341062073_A_Cloud-Based_Computational_Framework_to_Perform_Oil-Field_Development_Operation_Using_a_Single_Digital_Twin_Platform). I am well-versed in various frameworks and technologies, including Django, Django REST framework, Odoo, Laravel, and jQuery. Additionally, I have experience in front-end technologies like HTML, CSS, and JavaScript, React.js. I have earned a gold badge on Python in hackerrank.com and possess strong problem-solving skills.
 
 ## Professional Skills
 
 - Languages (Backend): Python, PHP.
 - Languages (Frontend): HTML, CSS, JavaScript.
-- Frameworks: Django, Django REST framework, Laravel, CodeIgniter, VueJS, jQuery, Bootstrap.
-- Package-Installers: Pip, Composer, Gulp, Browserify.
+- Frameworks: Django, Django REST framework, Odoo, Laravel, CodeIgniter, React.JS, jQuery, Bootstrap.
+- Package-Installers: Pip, Composer, webpack.
 - Databases: MySQL, SQLite, MongoDB, Postgresql.
 - Servers: Apache, nGinx, Docker.
 - Development Procedure: Git, Agile Methodology.
 - Payment Gateways: Stripe, Paypal, SSLCommerz.
 - Platforms: Linux, Mac, Windows.
-- Configuring: VPS with LAMP, Vagrant, (FTP, SMTP, DNS).
-- Project Mgt. Soft.: Jira, Trello, Odoo Project Mgt. Addon.
+- Configuring: AWS(EC2, S3, Lightsail, SNS etc), VPS with LAMP, Vagrant, (FTP, SMTP, DNS).
+- Project Mgt. Soft.: Jira, Trello.
 
 ## Experience
 

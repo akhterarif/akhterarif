@@ -1,73 +1,107 @@
-# Akhter-uz-zaman - Senior Software Engineer
+# 👋 Hi, I'm Akhteruzzaman Arif
 
-- Email: tech.az.arif@gmail.com
-- GitHub: [akhterarif](https://github.com/akhterarif)
-- LinkedIn: [akhterarif](https://www.linkedin.com/in/akhterarif/)
+**Email**: [tech.az.arif@gmail.com](mailto:tech.az.arif@gmail.com)  
+**Phone**: (+880) 1773 912255  
+**LinkedIn**: [linkedin.com/in/akhterarif](https://linkedin.com/in/akhterarif)  
+**GitHub**: [github.com/akhterarif](https://github.com/akhterarif)  
 
-## Summary
+---
 
-I am a Senior Software Engineer with over 7+ years of experience in server-based software development, engineering automation, and deploying applications on local and remote servers for Local and Remote Clients. My expertise lies in Python and PHP, and I have co-authored a research paper on [Cloud-Based Computational Framework for Oil-Field Development](https://www.researchgate.net/publication/341062073_A_Cloud-Based_Computational_Framework_to_Perform_Oil-Field_Development_Operation_Using_a_Single_Digital_Twin_Platform). I am well-versed in various frameworks and technologies, including Django, Django REST framework, Odoo, Laravel, and jQuery. Additionally, I have experience in front-end technologies like HTML, CSS, and JavaScript, React.js. I have earned a gold badge on Python in hackerrank.com and possess strong problem-solving skills.
+## 🚀 Summary
 
-## Professional Skills
+I'm a results-driven **Software Engineer** with over **9 years of experience** in full-stack web development specializing in **PHP**, **JavaScript**, and **WordPress**. I have a passion for building **performance-focused**, **modular**, and **user-friendly** software.
 
-- Languages (Backend): Python, PHP.
-- Languages (Frontend): HTML, CSS, JavaScript.
-- Frameworks: Django, Django REST framework, Odoo, Laravel, CodeIgniter, React.JS, jQuery, Bootstrap.
-- Package-Installers: Pip, Composer, webpack.
-- Databases: MySQL, SQLite, MongoDB, Postgresql.
-- Servers: Apache, nGinx, Docker.
-- Development Procedure: Git, Agile Methodology.
-- Payment Gateways: Stripe, Paypal, SSLCommerz.
-- Platforms: Linux, Mac, Windows.
-- Configuring: AWS(EC2, S3, Lightsail, SNS etc), VPS with LAMP, Vagrant, (FTP, SMTP, DNS).
-- Project Mgt. Soft.: Jira, Trello.
+Whether it’s crafting a custom plugin, optimizing a web application for speed, or leading a distributed engineering team—my goal is to ship **clean, scalable, and maintainable code** that delivers real-world impact.
 
-## Experience
+---
 
-1. **Strativ BD Ltd**, Dhaka - Sr. Software Engineer (May 2020 - Present)
-2. **IDARE LLC**, Dhaka - Sr. Software Engineer (February 2019 - March 2020)
-3. **Digicon Telecommunications Ltd.**, Dhaka - Sr. Software Engineer (May 2018 - January 2019)
-4. **Binate Solutions Ltd.**, Dhaka - Software Engineer (March 2017 - April 2018)
-5. **Rx71 Ltd.**, Dhaka - Software Engineer (November 2015 - February 2017)
-6. **Laptop City**, Rajshahi - Software Engineer (June 2014 - January 2015)
-7. **Raj IT**, Rajshahi - Software Developer (April 2013 - March 2014)
+## 💼 Professional Experience
 
-## Projects
+### 🧠 Team Lead | Senior Software Engineer  
+**weLabs Ltd (wedevs.com)** – Bangladesh  
+**July 2024 – Present**
+- Architected and led development of a modular **project management plugin for WordPress**.
+- Built advanced vendor workflow features for **Dokan Multivendor**.
+- Published [Speed-Mate](https://wordpress.org/plugins/speed-mate/) – a beginner-friendly performance optimization plugin (caching, minification, cleanup).
+- Mentored junior engineers and conducted code reviews to uphold best practices.
 
-1. **Developing Server Based Software for Swedish Clients (Python)**
-   - Designed and implemented the backend of various server-based software for Swedish organizations.
-   - Developed APIs and implemented different business logics based on client requirements.
-   - Utilized Django to build APIs and deployed software on AWS-EC2 and AWS-Lightsail.
-   - Portfolios [vaccina.se](https://vaccina.se/), [bolagsbolaget.se](https://bolagsbolaget.se/), [resulterna.se](https://resulterna.se/)
+### 🌍 Team Lead | Senior Software Engineer  
+**Strativ AB** – Sweden  
+**May 2020 – June 2024**
+- Engineered scalable systems and APIs using **Django**, **Laravel**, and **PostgreSQL**.
+- Led the development of a **medical journal platform** with 500K+ users.
+- Built custom **ERP modules** using **Odoo**.
+- Pushed performance and test automation across the stack.
 
-2. **Different kinds of Analysis and Calculation of IDARE (Python)**
-   - Designed and implemented the backend for different analysis calculations of Finite Element Analysis.
-   - Used Celery+RabbitMQ for Queue Management and Django-Channels for live status updates in the frontend.
-   - Link: [idare.io](https://idare.io/)
+### 🔬 Senior Software Engineer  
+**IDARE LLC** – Dhaka  
+**Feb 2019 – Mar 2020**
+- Developed FEA backend services using **Django**, **Celery**, and **RabbitMQ**.
+- Built real-time features using **Django Channels**.
+- Co-authored research on cloud computation in oil-field development.
 
-3. **MIME ISP ERP (Python, ODOO Framework)**
-   - Developed the backend and frontend of ISP ERP software.
-   - Implemented Accounting, Employee Management, CRM, Payroll, and integrated SSLWireless Payment Gateway.
-   - Link: [mimebd.com](https://www.mimebd.com/)
+### 📊 Senior Software Engineer  
+**Digicon Telecommunications Ltd.**  
+**May 2018 – Jan 2019**
+- Developed ERP modules (Accounting, CRM, Payroll) in **Odoo**.
+- Integrated payment systems and automated reporting pipelines.
 
-4. **Face The Public (Python)**
-   - Developed the backend for the Face The Public App and its APIs.
-   - Integrated Push Notification for the mobile app (iOS and Android).
-   - Link: [facethepublic.nl](https://www.facethepublic.nl/)
+### 🌐 Software Engineer  
+**Binate Solutions Ltd.**  
+**Mar 2017 – Apr 2018**
+- Built REST APIs for a job platform using **Django** + **PostgreSQL**.
 
-5. **Fleks (Python)**
-   - Wrote test cases for APIs and backend services.
-   - Link: [fleks.nl](https://www.fleks.nl/)
+### 🏥 Software Engineer  
+**rx71 Ltd.** – Dhaka  
+**Nov 2015 – Feb 2017**
+- Developed **hospital management features** in **Laravel**.
+- Implemented modules like **Payroll** and **Lab Reporting**.
 
-## Programming Achievements
+---
 
-- Gold badge on Python in hackerrank.com.
-- Silver badge on problem-solving in hackerrank.com.
-- Completed a course on Python on Udemy.
-- Champion in Hackathon 2014 for developing a game with Unity and C# for promoting sanitary toilet consciousness.
-- Participant in Programming Contests by Bangladesh Computer Council (BCC) and CSE-RU.
+## 🛠️ Core Competencies
 
-## Education
+- **Languages**: PHP, JavaScript (Vanilla, jQuery), Python  
+- **Frameworks & Platforms**: WordPress, Laravel, Django, Odoo  
+- **WordPress Mastery**: Plugin Dev, REST API, WooCommerce, WPML, Gutenberg  
+- **Performance Optimization**: Caching, Lazy Loading, Minification, Intersection Observer  
+- **Testing & Code Quality**: PHPUnit, PHPCS, CI/CD, Code Reviews  
+- **DevOps & Infra**: Docker, Nginx, Apache, AWS (EC2, S3, Lambda), Linux  
+- **Collaboration & Tools**: Git, GitHub, GitLab, Agile, Slack, Trello  
 
-- University Of Rajshahi, Rajshahi — Graduation in Computer Science & Engineering (January 2010 - October 2015)
-- Notre Dame College, Dhaka - H.S.C in Science (January 2006 - October 2008)
+---
+
+## 🎓 Education
+
+**B.Sc. in Computer Science & Engineering**  
+University of Rajshahi, Bangladesh  
+_2010 – 2015_
+
+---
+
+## 🏅 Certifications & Awards
+
+- 🏆 **Champion**, National Hackathon – Government of Bangladesh (2014)
+
+---
+
+## 📌 Additional Info
+
+- Comfortable working across time zones (**UTC+4 to UTC–4**)
+- Advocate of **remote-first culture** and async collaboration
+- Contributor to open-source and active in developer communities
+
+---
+
+## 🔍 Featured Projects
+
+- **Speed-Mate**: [View on WordPress.org](https://wordpress.org/plugins/speed-mate/)  
+  A user-friendly WordPress performance plugin with features like caching, lazy loading, and DB cleanup.
+
+- **WP Todo App (Optimistic UI)**: A React-based WordPress Admin plugin with REST integration.
+
+---
+
+📫 _Feel free to reach out via [email](mailto:tech.az.arif@gmail.com) or [LinkedIn](https://linkedin.com/in/akhterarif) for collaboration, consulting, or plugin development opportunities._
+
+---
